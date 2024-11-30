@@ -1,2 +1,2 @@
 # Peta-Web
-Informasi terkait perssebaran lokasipraktik dokter di Kecamatan Delta Pawan
+Informasi terkait persebaran lokasi praktik dokter di Kecamatan Delta Pawan
